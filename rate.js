@@ -70,7 +70,8 @@ const EXCLUDED_LADY_NAMES = [
   'Jurria',
   'Lina lyn',
   'Didiqn',
-  '𝓐𝓷𝓷𝓪'
+  '𝓐𝓷𝓷𝓪',
+  'Lana turner'
 ];
 
 // Pause between two rating requests (milliseconds).
